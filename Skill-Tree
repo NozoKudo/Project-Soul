@@ -1,12 +1,12 @@
-##  Acrobatics
+##  Acrobatics - 75SP
 Skill           Cost    Stat        Prerequisites   Description
-|Swift Reflexes |0      |17 Agility |---------------|Your DV gains +5 when flinching away from missile attacks. |
-|Spry           |100    |17 Agility |---------------|Your DV is increased by 2.                                 |
-|Jump           |100    |17 Strength|---------------|Quickly jump into an unoccupied location withing range 2.  |
-|Tumble         |150    |23 Agility |Tactics.Juke   |You gain a +1 to DV. Juke's CD is halved.                  |
-##  Tactics
+|Swift Reflexes |0SP    |17 Agility |---------------|Your DV gains +5 when flinching away from missile attacks. |
+|Spry           |100SP  |17 Agility |---------------|Your DV is increased by 2.                                 |
+|Jump           |100SP  |17 Strength|---------------|Quickly jump into an unoccupied location withing range 2.  |
+|Tumble         |150SP  |23 Agility |Tactics.Juke   |You gain a +1 to DV. Juke's CD is halved.                  |
+##  Tactics - 100SP
 Skill           Cost    Stat        Prerequisites   Description
-|Hurdle         |0      |-----------|---------------|You recieve no pentalty to your DV when you sprint.        |
-|Deft Throwing  |50     |10 Agility |---------------|+3 Throw range. Throw variance is halve inside your range  |
-|Charge         |150    |17 Strength|---------------|Move atleast 2 to perform a melee strike at +1 PV.         |
-|Juke           |200    |21 Agility |---------------|CD:4  You move 1 at no action cost. You may swap with Foe. |
+|Hurdle         |0SP    |-----------|---------------|You recieve no pentalty to your DV when you sprint.        |
+|Deft Throwing  |50SP   |10 Agility |---------------|+3 Throw range. Throw variance is halve inside your range  |
+|Charge         |150SP  |17 Strength|---------------|Move atleast 2 to perform a melee strike at +1 PV.         |
+|Juke           |200SP  |21 Agility |---------------|CD:4  You move 1 at no action cost. You may swap with Foe. |
